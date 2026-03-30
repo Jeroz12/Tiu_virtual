@@ -1,0 +1,24 @@
+{
+  "name": "TIU Virtual",
+  "short_name": "TIU",
+  "description": "Carnet virtual de estudiante",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F9FAFE",
+  "theme_color": "#F9FAFE",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://ui-avatars.com/api/?name=TIU&background=c62828&color=fff&size=192&font-size=0.35&bold=true",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://ui-avatars.com/api/?name=TIU&background=c62828&color=fff&size=512&font-size=0.35&bold=true",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
